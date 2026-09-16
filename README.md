@@ -98,7 +98,7 @@ API_KEY=YOUR_API_KEY
 
 1. Start the FastAPI server:
 ```bash
-uvicorn app:app --reload --port 8000
+python -m uvicorn app:app --reload --port 8000
 
 ```
 
